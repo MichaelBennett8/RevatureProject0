@@ -1,0 +1,8 @@
+dev/bennett/utiltests/ConnectionTest.java
+ dev.bennett.utiltests.ConnectionTest
+dev/bennett/daotests/CientDaoTest.java
+ dev.bennett.daotests.CientDaoTest
+dev/bennett/servicetests/ServiceTest.java
+ dev.bennett.servicetests.ServiceTest
+dev/bennett/daotests/AccountDaoTest.java
+ dev.bennett.daotests.AccountDaoTest
